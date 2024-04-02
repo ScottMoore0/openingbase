@@ -35,32 +35,28 @@ ply(10) (projected): 3.3 PB (comparable to estimates for the 8-man Syzygy tableb
 
 From https://wismuth.com/chess/statistics-positions.html:
 
-A chess position is "uniquely realizable" if there is only one chess game that leads to the position in the specified number of plies.
-
 Number of distinct chess positions
-
-uniquely realizable /	all
   
-ply 0	1	1
+ply 0	1
 
-ply 1	20	20
+ply 1	20
 
-ply 2	400	400
+ply 2	400
 
-ply 3	1862	5362
+ply 3	5362
 
-ply 4	9825	72078
+ply 4	72078
 
-ply 5	53516	822518
+ply 5	822518
 
-ply 6	311642	9417681
+ply 6	9417681
 
-ply 7	2018993	96400068
+ply 7	96400068
 
-ply 8	12150635	988187354
+ply 8	988187354
 
-ply 9	69284509	9183421888
+ply 9	9183421888
 
-ply 10	382383387	85375278064
+ply 10	85375278064
 
-ply 11	1994236773	726155461002
+ply 11	726155461002
